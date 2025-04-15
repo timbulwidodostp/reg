@@ -1,6 +1,8 @@
 # reg
 Apply univariate regression models Use reg (quickReg) With (In) R Software
 
+https://www.youtube.com/watch?v=qXunsYpY4HM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
